@@ -54,3 +54,5 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cualq
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+Este proyecto fue realizado por Kelly Bedoya
